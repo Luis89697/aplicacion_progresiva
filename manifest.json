@@ -1,0 +1,59 @@
+{
+    "name": "Aplicacion web progresiva",
+    "short_name": "Luis Angel Gutierrez Cervantes",
+    "description": "practica de la asignatura de aplicacion web",
+    "background_color": "#FFF",
+    "theme_color": "#FB314E",
+    "orientation": "portrait",
+    "start_url": "./index.html?utm_source=web_app_manofest",
+    "scope":"./",
+    "lang":"es-ES",
+    "icons":[
+       
+        {
+            "src":"./im/android-chrome-1024x1024 (2).png",
+            "sizes":"512x512",
+            "type": "img/png"
+        },
+        {
+            "src":"./im/android-chrome-512x512.png",
+            "sizes":"384x984",
+            "type": "img/png"
+        },
+        {
+            "src":"./im/android-chrome-256x256 (2).png",
+            "sizes":"256x256",
+            "type": "img/png"
+        },
+        {
+            "src":"./im/android-chrome-192x192.png",
+            "sizes":"192x192",
+            "type": "img/png"
+        },
+        {
+            "src":"./im/android-chrome-128x128 (2).png",
+            "sizes":"128x128",
+            "type": "img/png"
+        },
+        {
+            "src":"./im/android-chrome-96x96 (2).png",
+            "sizes":"96x96",
+            "type": "img/png"
+        },
+        {
+            "src":"./im/android-chrome-64x64 (2).png",
+            "sizes":"64x64",
+            "type": "img/png"
+        },
+        {
+            "src":"./im/favicon-32x32.png",
+            "sizes":"32x32",
+            "type": "img/png"
+        },
+        {
+            "src":"./im/favicon-16x16.png",
+            "sizes":"16x16",
+            "type": "img/png"
+        }
+    ]
+}
